@@ -1,0 +1,8 @@
+.design { 
+ display: flex;
+ justify-content: center;
+}
+
+.fonts {
+    font-family: 'Reggae One', cursive;
+}
