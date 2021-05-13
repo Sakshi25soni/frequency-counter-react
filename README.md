@@ -1,6 +1,9 @@
 **About the Project**
 This project helps us in finding the N most frequently occuring words in the paragraph which is fetched from a link given, also the N can be taken manually by the user input UI which is made in React.js.
 
+**See This Project Live on Heroku**
+[Words-Frequency-Counter](https://react-words-counter.herokuapp.com/)
+
 **Component Used**
 1) Table (JSX)
 [Functional Component Used with React Hooks(useState).]
