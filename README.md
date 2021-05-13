@@ -14,4 +14,30 @@ This project helps us in finding the N most frequently occuring words in the par
 4) react-toastify
 
 **Test Cases with Screenshots**
+*Test Case 1*
+
+**N = 5**
+
+![](./Capture.PNG)
+
+*Test Case 2*
+
+**N = 9**
+
+![](./Capture1.PNG)
+
+*Test Case 3*
+
+**N = 16**
+
+![](./Capture2.PNG)
+
+*Test Case 4*
+
+**N = 156**
+
+![](./Capture3.PNG)
+
+
+**ThankYou Very Much**
 
